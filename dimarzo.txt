@@ -1,4 +1,5 @@
 * Materia: Módulo de actualización técnica y herramientas digitales
 * Nombre de equipo: Angustiados por el domingio
 * Participantes: Scarpaci, Paradela, Di Marzo
-* Nombre-Estudiante-creador-del-archivo: Bruno Di Marzo
+* Nombre-Estudiante-creador-del-archivo: Bruno Di Marzo Borghi
+
